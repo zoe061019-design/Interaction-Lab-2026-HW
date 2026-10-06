@@ -1,0 +1,178 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&family=Mountains+of+Christmas:wght@400;700&family=Notable&family=Rubik+Wet+Paint&family=Snowburst+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&family=Notable&family=Snowburst+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Danfo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
+h1{
+    text-align: center;
+    font-family: "Miltonian Tattoo", serif;
+    font-size: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #760000;
+}
+.intro{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #241A14;
+}
+body{
+    background-color: #ffae00;
+    font-family: "cormorant garamond", serif;
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.step{
+    text-align: left;
+    font-family: "times new roman", serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+section {
+    padding: 60px;
+    margin: 20px 40px;
+    border-radius: 20px;
+    background-color: #E6D8C3;
+}
+.caffeine {
+    background: linear-gradient(to top, #77470b ,#c58540 ,#ffffff);
+}
+.caffeine .big{
+    font-size: 100px;
+    color: #ffffff;
+}
+
+.caffeine h2{
+    font-size: 30px;
+    font-style: italic;
+    color: #760000;
+}
+
+.caffeine p{
+    text-align: right;
+    font-size: 16px;
+    font-style: italic;
+    color: #ffffff;
+}
+.caffeine .step{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-family: "times new roman", sans-serif;
+    color: #ffffff;
+}
+
+.makeup {
+    background-color: #ff7f35;
+}
+.makeup .big{
+    font-size: 150px;
+    font-family: "Rubik Wet Paint", sans-serif;
+    color: #04001b;
+}
+
+.makeup p{
+    font-size: 20px;
+    margin-top: -120px;
+    color: #04001b;
+}
+
+.makeup .step{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: -80px;
+    text-align: left;
+    font-family: "times new roman", sans-serif;
+    color: #04001b;
+}
+.clothes {
+    background: radial-gradient(circle, #62005b 20%,#120062 60%,#ffae00 20%);
+}
+
+.clothes .big{
+    font-size: 150px;
+    text-align: center;
+    margin-top: -50px;
+    font-family: "Barrio", sans-serif;
+    color: #ffffff;
+}
+.clothes p{
+    font-size: 20px;
+    margin-top: -130px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.clothes .step{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+    font-family: "times new roman", sans-serif;
+    color: #120062;
+}
+
+.music {
+    background: radial-gradient(circle, #ffae00, #000f62);
+}
+
+.music audio {
+    display: block;
+    margin-top: -100px;
+
+}
+.music .step{
+    font-size: 20px;
+    font-family: "times new roman", sans-serif;
+    color: #ffffff;
+}
+.music .big{
+    font-size: 150px;
+    font-family: "Notable", sans-serif;
+    color: #ffffff;
+}
+
+.music p{
+    font-size: 20px;
+    font-family: "Notable", sans-serif;
+    color: #ffffff;
+}
+
+.speakup {
+    background: linear-gradient(to top, #ffae00, #820009);
+    color: #F6EBD7;
+}
+
+.speakup .big {
+    font-size: 150px;
+    text-align: center;
+    line-height: 0.8em;
+    font-family: "Danfo", sans-serif;
+    color: #ffffff;
+}
+.speakup .step {
+    font-size: 20px;
+    text-align: left;
+    margin-top: -20px;
+    font-family: "times new roman", sans-serif;
+    color: #ffffff;
+}
+.speakup p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: -70px;
+    font-family: "snowburst one", sans-serif;
+    color: #ffffff;
+}
