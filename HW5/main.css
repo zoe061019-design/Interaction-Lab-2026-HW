@@ -1,0 +1,315 @@
+body{
+    margin:0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.painting{
+    position: relative;
+
+    width: 720px;
+    height: 690px;
+
+    background-color:#F1F3EB;
+    border: 25px solid white;
+
+}
+
+/* colors */
+
+.red {
+    position: absolute;
+    background-color: #B83220;
+}
+
+.blue {
+    position: absolute;
+    background-color: #24369D;
+}
+
+.yellow {
+    position: absolute;
+    background-color: #EDD41C;
+}
+
+.gray {
+    position: absolute;
+    background-color: #DDDABD;
+}
+
+
+/* red block */
+
+.red1 {
+    width: 57px;
+    height: 84px;
+
+    top: 5%;
+    left: 32%;
+}
+
+.red2 {
+    width: 55px;
+    height: 50px;
+
+    top: 25%;
+    left: 65%;
+    z-index: 2;
+}
+
+.red3 {
+    width: 9.5%;
+    height: 6%;
+
+    bottom: 45%;
+    left: 17.5%;
+}
+.red4 {
+    width: 9.5%;
+    height: 14%;
+
+    bottom: 41%;
+    left: 68%;
+}
+.red5 {
+    width: 42px;
+    height: 43px;
+
+    bottom: 16%;
+    left: 85%;
+}
+.red6 {
+    width: 6%;
+    height: 5%;
+
+    bottom: 74%;
+    left: 87%;
+}
+.red7 {
+    width: 11%;
+    height: 7%;
+
+    bottom:0.2%;
+    left: 40%;
+}
+.red8 {
+    width: 5%;
+    height: 12%;
+
+    top: 5%;
+    left: 19.5%;
+}
+
+
+/* blue blocks */
+
+.blue1 {
+    width: 8%;
+    height: 6%;
+
+    top: 21%;
+    left:9%;
+}
+
+.blue2 {
+    width: 55px;
+    height: 120px;
+
+    top: 19%;
+    left: 65%;
+    z-index: 1;
+}
+
+.blue3 {
+    width: 42px;
+    height: 43px;
+
+    bottom: 25%;
+    left: 85%;
+}
+.blue4 {
+    width: 8%;
+    height: 5%;
+
+    top: 59%;
+    left:9%;
+}
+
+/* yellow blowcks */
+
+.yellow1 {
+    width: 10%;
+    height: 7%;
+
+    top: 27%;
+    left: 17%;
+}
+
+.yellow2 {
+    width: 10%;
+    height: 7%;
+
+    top: 77%;
+    left: 17%;
+}
+.yellow3 {
+    width: 7%;
+    height: 19%;
+
+    top: 38%;
+    left: 42%;
+}
+
+.yellow4 {
+    width: 6%;
+    height: 12%;
+
+    top: 43%;
+    left: 32%;
+}
+
+.yellow5 {
+    width: 6%;
+    height: 9%;
+
+    top: 36%;
+    left: 19%;
+}
+
+.yellow6 {
+    width: 5%;
+    height: 3%;
+
+    top: 28%;
+    left:67%;
+
+    z-index: 2;
+}
+.yellow7 {
+    width: 2.5%;
+    height: 17%;
+
+    top: 45%;
+    left:63%;
+}
+.yellow8 {
+    width: 7%;
+    height: 3%;
+
+    top: 75%;
+    left:85%;
+}
+
+
+
+
+/* gray */
+
+.gray1 {
+    width: 10%;
+    height: 2%;
+
+    top: 15%;
+    left: 32%;
+}
+
+.gray2 {
+    width: 7%;
+    height: 2%;
+
+    top: 43%;
+    left: 42%;
+}
+
+.gray3 {
+    width: 7%;
+    height: 5%;
+
+    top: 47%;
+    left: 42%;
+}
+
+.gray4 {
+    width: 4%;
+    height: 3%;
+
+    top: 29%;
+    left: 19.5%;
+}
+
+.gray5 {
+    width: 5%;
+    height: 2%;
+
+    top: 10%;
+    left: 19.5%;
+}
+.gray6 {
+    width: 7%;
+    height: 5%;
+
+    top: 47%;
+    left: 69.4%;
+}
+
+.gray7 {
+    width: 9.5%;
+    height: 3%;
+
+    top: 59%;
+    left: 68%;
+}
+.gray8 {
+    width: 4%;
+    height: 3%;
+
+    top: 78%;
+    left: 21%;
+}
+
+
+
+
+.line{
+    position: absolute;
+    background-color:#EDD41C;
+}
+
+.vertical {
+    width: 14px;
+    height: 100%;
+}
+.v1 { left: 3%; }
+.v2 { left: 7%; }
+.v3 { left: 15%; }
+.v4 { left: 27%; }
+.v5 { left: 55%; }
+.v6 { left: 58%; }
+.v7 { left: 83%; }
+.v8 { left: 87%; }
+.v9 { left: 91%; }
+.v10 { left: 96%; }
+
+
+
+.horizontal {
+    width: 100%;
+    height: 14px;
+}
+.h1 { top: 3%; }
+.h2 { top: 17%; }
+.h3 { top: 36%; }
+.h4 { top: 43%; }
+.h5 { top: 55%; }
+.h6 { top: 62%; }
+.h7 { top: 84%; }
+.h8 { top: 93%; }
+
+
+
+
+
+
+
